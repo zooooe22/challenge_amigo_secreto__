@@ -51,4 +51,4 @@ document.addEventListener('DOMContentLoaded', () => {
     document.getElementById("btnAdicionar").addEventListener("click", agregarAmigo);
     document.getElementById("btnSortear").addEventListener("click", sortearAmigos);
 });
-console.log("pepe")
+console.log("pp")
